@@ -1,1 +1,5 @@
+HEAD
 Dong 1 da bi sua tren master
+
+Dong 1 cua feature
+feature-conflict
